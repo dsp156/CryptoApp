@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "513345974908",
+    "project_id": "cryptography-and-hostel",
+    "storage_bucket": "cryptography-and-hostel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513345974908:android:9ac0694367a92ed89acff9",
+        "android_client_info": {
+          "package_name": "com.example.cryptoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513345974908-f1mu7um6dbhidbjsdnt2on1id199vjmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7PFLBA4ydcgko-zpdQ4xh7T1yOIefva8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513345974908-f1mu7um6dbhidbjsdnt2on1id199vjmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
